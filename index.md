@@ -7,7 +7,9 @@ caipuguang@Outlook.com
 ---
 
 **天津师范大学**		2017.09  - 2021.06
-软件工程 本科 软件学院
+
+软件工程 本科
+
 相关课程：数据结构、计算机组成原理、计算机操作系统、计算机网络、C++
 
 **天津大学**				2021.09 - 
@@ -38,9 +40,11 @@ caipuguang@Outlook.com
 ---
 
 深度学习实验室——基于生理信号的情绪识别		2019.03  - 2020.02
-本科期间，在学院人工智能实验室实践。主要内容为基于脑电、皮点、肌电等等生理信号的情绪识别。
+
+本科期间，在学院人工智能实验室实践。主要内容为基于脑电、皮点、肌电等生理信号的情绪识别。
 1. 利用脑电地形图，结合CNN和基于注意力的LSTM网络探索多模态情感识别中的深度时空表征。（Python、CNN、LSTM、Attention、Matlab)
 2. 基于BERT的多模态情绪识别设计与实现。（BERT、Transformer)
 
 #### 作品集
-Myblogs https://www.cnblogs.com/cpg123/
+---
+Myblogs [let's go](https://www.cnblogs.com/cpg123/)
