@@ -1,4 +1,4 @@
-<img src="https://images.cnblogs.com/cnblogs_com/cpg123/1607645/o_210914052058photo.jpg" width = "125" height = "175" alt="It's me." align=right />
+<img src="http://github.com/CPG123456/Puguang-Cai/blob/gh-pages/photo.jpg?raw=true" width = "125" height = "175" alt="It's me." align=right />
 
 ## 蔡普光
 177-2601-9597
@@ -35,8 +35,9 @@ pgcai@tju.edu.cn
 ---
 
 大学生创新创业项目——基于RFID标签食堂智能服务系统的设计与实现		2019.05  - 2020.05
+
 我的工作：数据分析与挖掘
-1. 每日膳食推荐智能推荐。（使用聚类的方法，推荐那些具有相似饮食兴趣的用户喜欢过的商品）
+1. 每日膳食推荐智能推荐。（使用聚类的方法，给用户推荐可能喜欢的商品）
 2. 基于菜品历史销售情况，综合外部因素(节假日、气候、竞争对手等)，对菜品销量进行趋势预测。(LSTM+Attention机制实现）
 
 #### 研究经历
@@ -51,7 +52,7 @@ pgcai@tju.edu.cn
 
 - 机器学习与数据挖掘实验室    2021.07 - now
 
-小样本学习
+小样本学习、计算机视觉
 
 #### 作品集
 ---
