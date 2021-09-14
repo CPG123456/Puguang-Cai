@@ -1,4 +1,4 @@
-<img src="https://github.com/CPG123456/Puguang-Cai/blob/gh-pages/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914091106.jpg?raw=true" width = "125" height = "175" alt="图片名称" align=right />
+<img src="https://github.com/CPG123456/Puguang-Cai/blob/gh-pages/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914091106.jpg?raw=true" width = "125" height = "175" alt="It's me." align=right />
 
 ## 蔡普光
 177-2601-9597
@@ -10,13 +10,13 @@ pgcai@tju.edu.cn
 
 **天津师范大学**		2017.09  - 2021.06
 
-软件工程 学士
+软件学院  软件工程 学士
 
 相关课程：数据结构、计算机组成原理、计算机操作系统、计算机网络、C++
 
 **天津大学**				2021.09 - 
 
-智能与计算学部 硕士
+智能与计算学部 电子信息 硕士
 
 专业课程：高级人工智能、图像合成技术、工程数学基础、软件体系结构
 
@@ -26,7 +26,7 @@ pgcai@tju.edu.cn
 
 ---
 
-- 技能： Python，Tensorflow，keras，PR，PS，Visio，Office
+- 技能： Python、Tensorflow、Pytorch、Keras、PR、PS、Visio、Office
 - 语言： 英语（CET-6）
 - 拓展： Bilibili-逍遥的豆子(视频制作-计算机软硬件）、 Bilibili-人工智能学院(人工智能学习视频)、 微信公众号-逍遥的豆子(计算机软硬件资讯)、教程及视频总计525k阅读、follow共计9.1k
 
@@ -43,13 +43,13 @@ pgcai@tju.edu.cn
 
 ---
 
-深度学习实验室——基于生理信号的情绪识别		2019.03  - 2020.02
+- 深度学习实验室——基于生理信号的情绪识别		2019.03  - 2020.02
 
 本科期间，在学院人工智能实验室实践。主要内容为基于脑电、皮点、肌电等生理信号的情绪识别。
 1. 利用脑电地形图，结合CNN和基于注意力的LSTM网络探索多模态情感识别中的深度时空表征。（Python、CNN、LSTM、Attention、Matlab)
 2. 基于BERT的多模态情绪识别设计与实现。（BERT、Transformer)
 
-机器学习与数据挖掘实验室    2021.07 - now
+- 机器学习与数据挖掘实验室    2021.07 - now
 
 小样本学习
 
