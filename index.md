@@ -1,4 +1,4 @@
-![img](https://images.cnblogs.com/cnblogs_com/cpg123/1607645/o_210914011153%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914091106.jpg)
+![img](https://github.com/CPG123456/Puguang-Cai/blob/gh-pages/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914091106.jpg?raw=true)
 ## 蔡普光
 177-2601-9597
 pgcai@tju.edu.cn       
