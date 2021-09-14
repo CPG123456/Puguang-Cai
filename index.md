@@ -1,4 +1,4 @@
-<img src="https://github.com/CPG123456/Puguang-Cai/blob/gh-pages/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914091106.jpg?raw=true" width = "350" height = "250" alt="图片名称" align=right/>
+<img src="https://github.com/CPG123456/Puguang-Cai/blob/gh-pages/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914091106.jpg?raw=true" width = "250" height = "350" alt="图片名称" align=right/>
 
 ## 蔡普光
 177-2601-9597
