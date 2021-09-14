@@ -1,4 +1,4 @@
-<img src="https://github.com/CPG123456/Puguang-Cai/blob/gh-pages/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914091106.jpg?raw=true" width = "125" height = "175" alt="It's me." align=right />
+<img src="https://images.cnblogs.com/cnblogs_com/cpg123/1607645/o_210914052058photo.jpg" width = "125" height = "175" alt="It's me." align=right />
 
 ## 蔡普光
 177-2601-9597
