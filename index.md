@@ -1,4 +1,4 @@
-<img src="http://github.com/CPG123456/Puguang-Cai/blob/gh-pages/photo.jpg?raw=true" width = "125" height = "175" alt="It's me." align=right />
+<img src="http://github.com/CPG123456/Puguang-Cai/blob/gh-pages/photo.jpg?raw=true" width = "125" height = "175" alt="This is me." align=right />
 
 ## 蔡普光
 177-2601-9597
@@ -53,6 +53,8 @@ pgcai@tju.edu.cn
 - 机器学习与数据挖掘实验室    2021.07 - now
 
 小样本学习、计算机视觉
+项目：跌倒识别、烟火识别、高空抛物检测
+科研：solar wind predication about VIT
 
 #### 作品集
 ---
